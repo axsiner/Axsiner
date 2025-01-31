@@ -1,2 +1,2 @@
 
-[Axsiner](http://localhost:8069/odoo/action-204)
+[Axsiner](http://localhost:8069/)
